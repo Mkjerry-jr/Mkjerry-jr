@@ -13,12 +13,7 @@
 
 ---
 
-## 🚀 About Me
 🔹 Pen name: **MK Jerry** <br>
-🔹 Passionate fresher with a strong interest in **technology and development**  
-🔹 Eager to explore real-world opportunities, learn, and grow  
-🔹 Excited to contribute meaningfully to **innovative projects**  
-🔹 Fun fact: I once built a **firefighter robot using Arduino UNO** 🚒🤖  
 
 ![GitHub followers](https://img.shields.io/github/followers/mkjerry-jr?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/mkjerry-jr?style=social)
@@ -77,20 +72,17 @@ const ManojKumarK = {
 ## 📊 GitHub Analytics
 
 
+<!-- Top Row: GitHub Stats + Top Languages -->
 <p align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mkjerry-jr&show_icons=true&hide_title=true&count_private=true&hide_border=true&bg_color=000000&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" height="580" width="580"/>
-
-
-
-  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mkjerry-jr&show_icons=true&hide_title=true&count_private=true&hide_border=true&bg_color=000000&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" height="200" width="380"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkjerry-jr&layout=compact&theme=dark&hide_border=true" height="200" width="380"/>
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=mkjerry-jr&theme=dark&hide_border=true&border_radius=15&background=0d1117&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF" height="1280" width="680"/>
-
 </p>
+
+<!-- Bottom Row: Streak Stats full width -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mkjerry-jr&theme=dark&hide_border=true&border_radius=15&background=0d1117&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF" height="180" width="780"/>
+</p>
+
 
 ---
 
