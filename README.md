@@ -10,12 +10,9 @@
 </em>
 </p>
 
+Pen name: **MK Jerry** <br>
 
----
-
-🔹 Pen name: **MK Jerry** <br>
-
-![GitHub followers](https://img.shields.io/github/followers/mkjerry-jr?style=social)
+![GitHub followers](https://img.shields.io/github/followers/mkjerry-jr?style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/mkjerry-jr?style=social)
 
 
