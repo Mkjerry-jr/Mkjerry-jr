@@ -10,10 +10,21 @@
 </em>
 </p>
 
-**Pen name:** MK Jerry <br>
-**Mail:** mkjerry.dev@gmail.com <br>
-**Website:** [mkjerry.netlify.app](https://mkjerry.netlify.app/)
+---
 
+## 🌍 Connect With Me
+
+
+<p align="center">
+  <a href="https://mkjerry.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/manoj-kumar-k-27b338250"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mkjerry.dev@gamil.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/MKJerry_dev"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://discord.com/users/mkjerry"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://x.com/MKJerry_jr"><img src="https://img.shields.io/badge/Twitter (X)-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+</p>
+
+**Pen name:** MK Jerry <br>
 ![GitHub followers](https://img.shields.io/github/followers/mkjerry-jr?style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/mkjerry-jr?style=social)
 
@@ -131,13 +142,6 @@ A **mini-ERP** system for primary schools with **role-based access**, enabling a
 
 ---
 
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://mkjerry.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/manoj-kumar-k-27b338250"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:mkjerry.dev@gamil.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
 
 
 <h5 align="right"> ~ Coding is an art, and I am the artist ✨</h5>
