@@ -3,7 +3,8 @@
 
 
 **Location:** Peace Ville, NH-46, Chennai-Bangalore Highway, Poigai-Sathyamangalam, Vellore, Tamil Nadu – 632114.  
-**School Type:** Co-educational, English Medium, Private, Non-residential. </br>
+**School Type:** Co-educational, English Medium, Private, Non-residential.
+
 **Years of Education:** 2010 - 2022 
  
 
