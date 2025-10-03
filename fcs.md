@@ -1,1 +1,1 @@
-
+![School Logo](FREEDOM CONCEPT SCHOOL.png)
