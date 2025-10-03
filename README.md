@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Name-Logo.gif" alt="Typing Animation Banner" width="1584" height="369"/>
+  <img src="Logo.png"
 </p>
 
 
