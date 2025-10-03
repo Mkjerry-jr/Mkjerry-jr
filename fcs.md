@@ -1,4 +1,6 @@
-![School Logo](fcs.png)
+
+![School Logo](https://raw.githubusercontent.com/Mkjerry-jr/Mkjerry-jr/main/fcs.png)
+
 
 **Location:** Peace Ville, NH-46, Chennai-Bangalore Highway, Poigai-Sathyamangalam, Vellore, Tamil Nadu – 632114.  
 **School Type:** Co-educational, English Medium, Private, Non-residential. </br>
