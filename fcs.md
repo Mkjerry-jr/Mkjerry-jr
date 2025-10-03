@@ -5,12 +5,12 @@
 **Location:** Vellore, Tamil Nadu – 632114.  
 **School Type:** Co-educational, English Medium, Private, Non-residential.
 
-### 🎓 School Education
 
-| Class | Stream / Core Subjects           | Year       |
-|-------|---------------------------------|------------|
-| 10th  | Maths, Science, Social, Tamil, English | 2019-20   |
-| 12th  | Commerce with Computer Science   | 2021-22   |
+| Class | Stream / Core Subjects           | Year       | Marks |
+|-------|---------------------------------|------------|--------|
+| 12th  | Commerce with Computer Science   | 2021-22   | 82% |
+| 10th  | Maths, Science, Social, Tamil, English | 2019-20   | 75% |
+
 
 
 ### 📚 Curriculum & Learning Approach
