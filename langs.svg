@@ -1,0 +1,68 @@
+<svg width="480" height="260" viewBox="0 0 480 260" xmlns="http://www.w3.org/2000/svg">
+<title>Manoj Kumar K - Most Used Languages</title>
+
+<defs>
+  <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#05070A"/>
+    <stop offset="100%" stop-color="#071B2E"/>
+  </linearGradient>
+  <linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00E5FF"/>
+    <stop offset="100%" stop-color="#009DFF"/>
+  </linearGradient>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="2.6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="hex" width="34" height="40" patternUnits="userSpaceOnUse">
+    <polygon points="17,1 32,10 32,27 17,36 2,27 2,10" fill="none" stroke="#00E5FF" stroke-width="0.6"/>
+  </pattern>
+</defs>
+
+<rect width="480" height="260" rx="16" fill="url(#bgGrad)" stroke="#00E5FF" stroke-width="1.2"/>
+<rect width="480" height="260" rx="16" fill="url(#hex)" opacity="0.12"/>
+<text x="20" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#EAFBFF" letter-spacing="1" filter="url(#glow)">MOST USED LANGUAGES</text>
+<line x1="20" y1="40" x2="460" y2="40" stroke="#00E5FF" stroke-opacity="0.35"/>
+
+<g transform="translate(20,56)">
+  <text x="0" y="0" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#EAFBFF">HTML</text>
+  <text x="440" y="0" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#7FD8E8">33%</text>
+  <rect x="0" y="8" width="440" height="9" rx="4.5" fill="#071B2E"/>
+  <rect x="0" y="8" width="0" height="9" rx="4.5" fill="#E34F26" filter="url(#glow)">
+    <animate attributeName="width" values="0;145.2" dur="1.4s" begin="0.20s" fill="freeze"/>
+  </rect>
+</g>
+<g transform="translate(20,92)">
+  <text x="0" y="0" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#EAFBFF">Python</text>
+  <text x="440" y="0" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#7FD8E8">27%</text>
+  <rect x="0" y="8" width="440" height="9" rx="4.5" fill="#071B2E"/>
+  <rect x="0" y="8" width="0" height="9" rx="4.5" fill="#00E5FF" filter="url(#glow)">
+    <animate attributeName="width" values="0;118.8" dur="1.4s" begin="0.40s" fill="freeze"/>
+  </rect>
+</g>
+<g transform="translate(20,128)">
+  <text x="0" y="0" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#EAFBFF">CSS</text>
+  <text x="440" y="0" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#7FD8E8">13%</text>
+  <rect x="0" y="8" width="440" height="9" rx="4.5" fill="#071B2E"/>
+  <rect x="0" y="8" width="0" height="9" rx="4.5" fill="#2965F1" filter="url(#glow)">
+    <animate attributeName="width" values="0;57.2" dur="1.4s" begin="0.60s" fill="freeze"/>
+  </rect>
+</g>
+<g transform="translate(20,164)">
+  <text x="0" y="0" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#EAFBFF">JavaScript</text>
+  <text x="440" y="0" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#7FD8E8">7%</text>
+  <rect x="0" y="8" width="440" height="9" rx="4.5" fill="#071B2E"/>
+  <rect x="0" y="8" width="0" height="9" rx="4.5" fill="#F1E05A" filter="url(#glow)">
+    <animate attributeName="width" values="0;30.8" dur="1.4s" begin="0.80s" fill="freeze"/>
+  </rect>
+</g>
+<g transform="translate(20,200)">
+  <text x="0" y="0" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#EAFBFF">Other (C, TypeScript, EJS)</text>
+  <text x="440" y="0" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#7FD8E8">20%</text>
+  <rect x="0" y="8" width="440" height="9" rx="4.5" fill="#071B2E"/>
+  <rect x="0" y="8" width="0" height="9" rx="4.5" fill="#32F5FF" filter="url(#glow)">
+    <animate attributeName="width" values="0;88.0" dur="1.4s" begin="1.00s" fill="freeze"/>
+  </rect>
+</g>
+<text x="20" y="246" font-family="Consolas, monospace" font-size="9.5" fill="#7FD8E8" opacity="0.7">based on public repository share &#8226; @mkjerry-jr</text>
+</svg>
