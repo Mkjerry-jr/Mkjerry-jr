@@ -11,22 +11,21 @@
 
 <br>
 
-<img src="./sec-dashboard.svg?v=4" alt="01 Dashboard" width="100%">
 <img src="./lanyard.svg?v=4" alt="Developer dashboard: repos, stars, forks, followers, top languages" width="100%">
 
 <br><br>
 
-<img src="./sec-stack.svg?v=4" alt="02 Tech stack" width="100%">
+
 <img src="./techstack.svg?v=4" alt="Tech stack" width="100%">
 
 <br><br>
 
-<img src="./sec-achievements.svg?v=4" alt="03 Achievements" width="100%">
+
 <img src="./trophies.svg?v=4" alt="Milestone badges" width="100%">
 
 <br><br>
 
-<img src="./sec-activity.svg?v=4" alt="04 Contributions" width="100%">
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkjerry-jr/mkjerry-jr/output/github-snake.svg">
@@ -38,18 +37,22 @@
 
 <br><br>
 
-<img src="./sec-projects.svg?v=4" alt="05 Projects" width="100%">
+
 <img src="./projects.svg?v=4" alt="EduVision, Virtual Hand Painter, Simple Chatbot" width="97%">
 
 [**EduVision**](https://github.com/Mkjerry-jr/EduVision) &nbsp;·&nbsp; [**Virtual Hand Painter**](https://github.com/Mkjerry-jr/Virtual-Painter) &nbsp;·&nbsp; [**Simple Chatbot**](https://github.com/Mkjerry-jr/Chatbot) &nbsp;·&nbsp; [**All repos →**](https://github.com/mkjerry-jr?tab=repositories)
 
 <br>
 
-<img src="./sec-connect.svg?v=4" alt="06 Connect" width="100%">
 <img src="./contact-card.svg?v=4" alt="Contact card" width="100%">
 
-<br><br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-171a2c?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://mkjerry.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-171a2c?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/manoj-kumar-k-27b338250)
+[![Email](https://img.shields.io/badge/Email-171a2c?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:mkjerry.dev@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-171a2c?style=for-the-badge&logo=leetcode&logoColor=22d3ee)](https://leetcode.com/MKJerry_dev)
+[![Discord](https://img.shields.io/badge/Discord-171a2c?style=for-the-badge&logo=discord&logoColor=22d3ee)](https://discord.com/users/mkjerry_jr)
+[![X](https://img.shields.io/badge/X-171a2c?style=for-the-badge&logo=x&logoColor=22d3ee)](https://x.com/MKJerry_jr)
 
-<img src="./footer.svg?v=4" alt="Coding is an art, and I am the artist. — MK Jerry" width="100%">
+<img src="./footer.svg?v=4" alt="Coding is an art, and I am the artist. — MK Jerry" width="50%">
 
 </div>
