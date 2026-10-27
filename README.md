@@ -34,9 +34,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkjerry-jr/mkjerry-jr/output/github-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkjerry-jr/mkjerry-jr/output/github-snake-light.svg">
-  <img src="https://raw.githubusercontent.com/mkjerry-jr/mkjerry-jr/output/github-snake.svg" alt="Contribution snake" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkjerry-jr/mkjerry-jr/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkjerry-jr/mkjerry-jr/output/github-snake-light.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/mkjerry-jr/mkjerry-jr/output/github-snake.svg" />
 </picture>
 
 <sub>Generated daily by [`github-snake.yml`](./.github/workflows/github-snake.yml)</sub>
