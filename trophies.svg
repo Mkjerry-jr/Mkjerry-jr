@@ -95,7 +95,7 @@
   </rect>
   <polygon points="52.0,18 70.0,18 67.0,34 55.0,34"
     fill="#f472b6" filter="url(#glow)"/>
-  <text x="61.0" y="70" text-anchor="middle" font-family="Consolas, monospace" font-size="22" font-weight="700" fill="#eceef6" filter="url(#glow)">2024</text>
+  <text x="61.0" y="70" text-anchor="middle" font-family="Consolas, monospace" font-size="22" font-weight="700" fill="#eceef6" filter="url(#glow)">2020</text>
   <text x="61.0" y="92" text-anchor="middle" font-family="'Orbitron', 'Segoe UI', Arial, sans-serif" font-size="9.5" letter-spacing="0.5" fill="#f472b6">JOINED GITHUB</text>
   <text x="61.0" y="112" text-anchor="middle" font-family="'Orbitron', 'Segoe UI', Arial, sans-serif" font-size="8" fill="#8d93ab">Building ever since</text>
   <rect x="-40" y="0" width="30" height="130" fill="#FFFFFF" opacity="0.06" transform="skewX(-16)">
