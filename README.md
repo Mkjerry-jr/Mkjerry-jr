@@ -21,6 +21,12 @@
 <br><br>
 
 
+<img src="./projects.svg?v=4" alt="EduVision, Virtual Hand Painter, Simple Chatbot" width="97%">
+
+[**EduVision**](https://github.com/Mkjerry-jr/EduVision) &nbsp;·&nbsp; [**Virtual Hand Painter**](https://github.com/Mkjerry-jr/Virtual-Painter) &nbsp;·&nbsp; [**Simple Chatbot**](https://github.com/Mkjerry-jr/Chatbot) &nbsp;·&nbsp; [**All repos →**](https://github.com/mkjerry-jr?tab=repositories)
+
+<br><br>
+
 <img src="./trophies.svg?v=4" alt="Milestone badges" width="100%">
 
 <br><br>
@@ -37,10 +43,6 @@
 
 <br><br>
 
-
-<img src="./projects.svg?v=4" alt="EduVision, Virtual Hand Painter, Simple Chatbot" width="97%">
-
-[**EduVision**](https://github.com/Mkjerry-jr/EduVision) &nbsp;·&nbsp; [**Virtual Hand Painter**](https://github.com/Mkjerry-jr/Virtual-Painter) &nbsp;·&nbsp; [**Simple Chatbot**](https://github.com/Mkjerry-jr/Chatbot) &nbsp;·&nbsp; [**All repos →**](https://github.com/mkjerry-jr?tab=repositories)
 
 <br>
 
